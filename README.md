@@ -2,7 +2,7 @@
 A machine learning-powered web application that predicts wireless channel capacity based on Signal-to-Noise Ratio (SNR) and Bandwidth inputs.
 
 ## Live Demo
-[Add your Streamlit deployment link here]
+[https://wireless-capacity-predictor-sambit.streamlit.app/]
 
 ## Features
 - Predicts wireless channel capacity in real time
